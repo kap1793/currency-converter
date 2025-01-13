@@ -2,6 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 import java.util.*;
 public class App {
+    //test
     private final Scanner keyboard = new Scanner(System.in);
 
     public static void main(String[] args) {
